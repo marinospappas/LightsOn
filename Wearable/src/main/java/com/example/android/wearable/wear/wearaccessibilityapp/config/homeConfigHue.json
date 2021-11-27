@@ -1,0 +1,39 @@
+{
+    "homeName": "MyFlat",
+    "lightsType": "PhilipsHue",
+    "attributes": "OFF",
+    "rooms": [
+        {
+            "roomName": "Hallway",
+            "roomId": 3,
+            "roomIcon": "hallway",
+            "attributes": "ALL",
+            "devices": [
+                { "name": "Entrance 1", "id":6, "attributes": "DIM,CT" },
+                { "name": "Entrance 2", "id":5, "attributes": "DIM,CT" }
+            ]
+        },
+        {
+            "roomName": "Living Room",
+            "roomId": 1,
+            "roomIcon": "livingroom",
+            "attributes": "ALL",
+            "devices": [
+                { "name": "Sofa", "id": 4, "attributes": "DIM,CT,COL" },
+                { "name": "Library", "id": 8, "attributes": "DIM,CT,COL" },
+                { "name": "Dining Table", "id": 7, "attributes": "DIM,CT,COL" },
+                { "name": "Kitchen", "id": 3, "attributes": "DIM,CT,COL" }
+            ]
+        },
+        {
+            "roomName": "Bedroom",
+            "roomId": 2,
+            "roomIcon": "bedroom",
+            "attributes": "ALL",
+            "devices": [
+                { "name": "Main Light", "id": 2, "attributes": "DIM,CT" },
+                { "name": "Bedside", "id": 9, "attributes": "DIM,CT,COL" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+  "homeName": "MyFlat",
+  "lightsType": "LightWave",
+  "attributes": "",
+  "rooms": [
+    {
+      "roomName": "Living Room",
+      "roomId": 1,
+      "roomIcon": "livingroom",
+      "attributes": "",
+      "devices": [
+        { "name": "Main Light", "id": 4, "attributes": "DIM" },
+        { "name": "Corner Lamp", "id": 1, "attributes": "DIM" },
+        { "name": "Table Lamp", "id": 2, "attributes": "DIM" },
+        { "name": "Display Unit", "id": 5, "attributes": "" },
+        { "name": "XMas Lights", "id": 6, "attributes": "" },
+        { "name": "Vinyl Play", "id": 3,"attributes": "" }
+      ]
+    },
+    {
+      "roomName": "Kitchen",
+      "roomId": 5,
+      "roomIcon": "kitchen",
+      "attributes": "",
+      "devices": [
+        { "name": "Cupboard", "id": 1, "attributes": "DIM" },
+        { "name": "Main Light", "id": 2, "attributes": "DIM" },
+        { "name": "Extractor Lt", "id": 3, "attributes": "" },
+        { "name": "Floor Lights", "id": 4, "attributes": "FLIPFLOP" }
+      ]
+    },
+    { "roomName": "Hallway",
+      "roomId": 2,
+      "roomIcon": "hallway",
+      "attributes": "",
+      "devices": [
+        { "name": "Main Light", "id": 1, "attributes": "" },
+        { "name": "Bathroom", "id": 2, "attributes": "DIM" }
+      ]
+    },
+    {
+      "roomName": "Head Office",
+      "roomId": 4,
+      "roomIcon": "headoffice",
+      "attributes": "",
+      "devices": [
+        { "name": "Main Light", "id": 1, "attributes": "" }
+      ]
+    },
+    {
+      "roomName": "Bedroom",
+      "roomId": 3,
+      "roomIcon": "bedroom",
+      "attributes": "",
+      "devices":  [
+        { "name": "Main Light", "id": 1, "attributes": "DIM" },
+        { "name": "Wardrobe", "id": 2, "attributes": "DIM" },
+        { "name": "Ensuite Main", "id": 3, "attributes": "DIM" },
+        { "name": "Ensuite Cbnt", "id": 4, "attributes": "" }
+        ]
+    }
+    ]
+}

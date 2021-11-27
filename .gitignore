@@ -1,0 +1,11 @@
+.google/*
+.gradle/*
+.idea/*
+gradle/*
+*.gradle
+gradle.properties
+gradlew
+gradlew.bat
+*.iml
+local.properties
+Wearable/build/*

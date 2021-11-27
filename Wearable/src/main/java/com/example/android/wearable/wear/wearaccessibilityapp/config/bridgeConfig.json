@@ -1,0 +1,12 @@
+{
+  "PhilipsHue": {
+    "bridgeURL": "http://192.168.1.101/api",
+    "bridgeUser": "WRVfvwRkIfziqBtIluNzwENRJRUvNQuDVUm7rajk"
+  },
+  "LightWave": {
+    "serverPort": 9760,
+    "clientPort": 9761,
+    "responseTimeout": 500,
+    "bcastAddress": "255.255.255.255"
+  }
+}
