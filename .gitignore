@@ -7,6 +7,5 @@ gradle.properties
 gradlew
 gradlew.bat
 *.iml
-local.properties
 Wearable/build/*
-local.properties.bak
+local.properties
